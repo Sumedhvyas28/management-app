@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43069233290",
+    "project_id": "management-pr",
+    "storage_bucket": "management-pr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43069233290:android:04ad3c130f2b0bac66b573",
+        "android_client_info": {
+          "package_name": "com.example.management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5geqD3OfX5uwKHSZWwooadBJgFZWakN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
